@@ -1,0 +1,58 @@
+.box1 {
+    width: 560px;
+    height: 332px;
+    font-family: roboto;
+    background: #FFFFFF;
+    border: 1px solid #EDF1F5;
+    box-shadow: 0px 4px 14px rgba(86, 86, 86, 0.07);
+    border-radius: 8px;
+
+    /* padding: 10px 10px 10px 20px; */
+}
+
+#qwer {
+    font-weight: 500;
+    size: 13px;
+
+}
+
+.qwer1 {
+    border-bottom: 1px solid #EDF1F5;
+    box-shadow: 0px 4px 14px rgba(86, 86, 86, 0.07);
+}
+
+.para {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #626D8A;
+
+
+}
+
+.para2 {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #626D8A;
+
+    /* identical to box height, or 186% */
+
+}
+
+.applynowbutton {
+
+    width: 139.25px;
+    height: 44px;
+    font-size: 14px;
+    color: #EDF1F5;
+    background: #05C36C;
+    border-radius: 22px;
+    border: none;
+}

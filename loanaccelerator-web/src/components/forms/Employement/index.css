@@ -1,0 +1,55 @@
+.Primary_Text {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    margin-top: 40px;
+    color: #042747;
+  } 
+.Secondary_Text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #626D8A;
+}
+.input{
+    width: 200px;
+    margin-top: 20px;
+}
+.status .ant-select-selector,.service,.office,.mail,.Designation,.company{
+  width: 250px !important;
+  border: 1px solid #E1E1E1 !important;
+  box-shadow:inset 0px 2px 6px rgba(140, 148, 168, 0.16)!important; 
+  border-radius: 6px!important;
+}
+.officeaddress{
+    width: 510px !important;
+  border: 1px solid #E1E1E1 !important;
+  box-shadow:inset 0px 2px 6px rgba(140, 148, 168, 0.16)!important; 
+  border-radius: 6px!important;
+}
+.buttons_employment{
+    margin-top: 351px;
+    margin-left: 550px;
+   }
+   
+  .nextbutton{
+    width: 100px;
+      height: 40px;
+      background: #095FF6;
+      box-shadow: 4px 6px 10px rgba(0, 136, 206, 0.12);
+      border-radius: 4px;
+      color: #FFFFFF;
+      font-size: 18px;
+      border: none;
+  }
+  .backbutton{
+    color: #928C8C !important;
+    border: none;
+    font-size: 18px;
+  }
+  .maindiv{
+    margin-left: 30px;
+  }
+.company,.Designation,.status,.service,.office,.mail,.officeaddress{
+   margin-top: 10px;
+}

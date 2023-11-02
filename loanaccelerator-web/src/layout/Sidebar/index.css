@@ -1,0 +1,38 @@
+
+ .menu {
+    background: #2C76C9;
+    color: #fff;
+    font-size: 20px;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+ 
+   }
+
+.menuitem{
+  width:320px ;
+}
+  
+  .ant-menu-item-selected {
+    background-color: rgb(40, 142, 182) !important;
+    border-radius: 2px;
+    color: white !important;
+  }
+  
+  .menuitem .ant-menu-item-icon svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .menuitem img {
+    margin-top: 15px;
+    margin-bottom: 3px;
+  }
+ 
+  .logout{
+    bottom: -350px;
+  }
+  .options{
+    padding: 25px;
+  }
+ 
+

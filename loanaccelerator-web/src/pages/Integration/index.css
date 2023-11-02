@@ -1,0 +1,23 @@
+ .col1-content {
+    position: relative; 
+  }
+  
+  .col1images {
+    position: absolute;
+    margin-left: -30px;
+    top: 680px;
+    z-index: 1; 
+    
+  }
+ 
+  .RightArrow {
+    position: absolute;
+    right: 10px;
+     transform: translateY(-50%);
+  }
+  .SubRightArrow{
+    position: absolute;
+    right: 10px;
+    margin-top: 16px;
+    transform: translateY(-50%);
+  }

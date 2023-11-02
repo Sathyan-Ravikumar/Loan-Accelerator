@@ -1,0 +1,82 @@
+.box3 {
+    width: 420px;
+    height: 332px;
+    left: 1488px;
+    top: 176px;
+    background: #FFFFFF;
+    border: 1px solid #EDF1F5;
+    box-shadow: 0px 4px 14px rgba(86, 86, 86, 0.07);
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.esc {
+
+    font-weight: 500;
+    size: 13px;
+    padding-top: 9px;
+    padding-left: 10px;
+    color: #042747;
+
+
+
+}
+
+.gr {
+    width: 87px;
+    height: 18px;
+    left: calc(50% - 87px/2 + 862.5px);
+    top: 204px;
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 18px */
+    margin-left: 85px;
+    display: flex;
+    align-items: flex-end;
+    text-decoration-line: underline;
+
+    /* Primary Background */
+
+    color: #2C76C9;
+
+}
+
+.csp1 {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 75px;
+    margin-top: -30px;
+
+    color: #626D8A;
+
+}
+
+.rectangle {
+    display: flex;
+    border-bottom: 1px solid #EDF1F5;
+    box-shadow: 0px 4px 14px rgba(86, 86, 86, 0.07);
+}
+
+.gauge {
+    width: 216.86px;
+    height: 166.86px;
+    font-size: 18px;
+    margin-left: 72px;
+
+}
+
+.excellent-color {
+    color: #00aaff;
+    /* Example color for excellent */
+}
+
+.good-color {
+    color: #00cc00;
+    /* Example color for good */
+}

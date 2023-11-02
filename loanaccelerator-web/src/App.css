@@ -1,0 +1,14 @@
+.side
+{
+    display: flex;
+    
+background: #F6F8FC;
+}
+
+.side2
+{
+    display: flex;
+    flex-direction: column;
+    
+background: #F6F8FC;
+}

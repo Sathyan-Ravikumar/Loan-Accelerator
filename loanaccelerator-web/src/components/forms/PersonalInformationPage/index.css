@@ -1,0 +1,134 @@
+.fullname,
+.DOB,
+.district .ant-select-selector,
+.CountryBirth .ant-select-selector,
+.TaxIdnumber,
+.Qualification .ant-select-selector,
+.residential .ant-select-selector,
+.residing,
+.gender .ant-select-selector,
+.father,
+.mother,
+.nationalid,
+.dateofissurance,
+.country .ant-select-selector,
+.nationality,
+.marital .ant-select-selector {
+  width: 240px !important;
+  border: 1px solid #d5cfcf !important;
+  background: var(--base-white, #FFF) !important;
+  box-shadow: inset 0px 2px 6px rgba(140, 148, 168, 0.16) !important;
+  border-radius: 6px !important;
+}
+
+.required-star {
+  color: red;
+}
+
+.radiocontent {
+  color: #53535F;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+#secondarytext {
+  color: #626D8A;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29px;
+  margin-left: 10px;
+}
+
+.formdata {
+  margin-left: 10px;
+}
+
+.personal_information_text {
+  color: #042747;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 28px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.nextbutton {
+  width: 100px;
+  height: 40px;
+  background: #095FF6;
+  box-shadow: 4px 6px 10px rgba(0, 136, 206, 0.12);
+  border-radius: 4px;
+  color: #FFFFFF;
+  font-size: 18px;
+  border: none;
+}
+
+.backbutton {
+  color: #928C8C !important;
+  border: none;
+  font-size: 18px;
+}
+
+.SecondLine,
+.ThirdLine,
+.FifthLine,
+.SixthLine,
+.FourthLine {
+  margin-top: 20px;
+}
+
+.buttons {
+  margin-top: 50px;
+  margin-left: 400px;
+}
+
+.Divider1,
+.Divider2 {
+  width: 881px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.10);
+}
+
+.radiobtnandtext {
+  display: flex;
+}
+
+.radiobtn {
+  margin-top: 5px;
+  margin-left: 50px;
+}
+
+.ant-picker-icon {
+  color: #454EEE;
+}
+
+.ant-select-arrow::before {
+  border-color: transparent transparent #454EEE transparent;
+}
+
+::placeholder {
+  color: #53535F !important;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.ant-select-selection-placeholder {
+  color: #53535F !important;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.ant-select-arrow .anticon {
+  color: blue;
+}
+
+.ant-form-item-explain-error {
+  font-size: 12px;
+  color: red;
+}

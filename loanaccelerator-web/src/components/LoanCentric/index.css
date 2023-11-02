@@ -1,0 +1,17 @@
+.card-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .title-image {
+    height: 24px;
+    width: 24px;
+    margin-right: 8px;
+  }
+  
+  .card-line {
+    height: 1px;
+    background-color: #e8e8e8;
+    margin: 0 -24px;
+  }

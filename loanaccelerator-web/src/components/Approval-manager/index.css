@@ -1,0 +1,176 @@
+
+.card-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.approval-card {
+  width: 600px; 
+  height: 270px; 
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  margin-right: 20px;
+
+}
+
+
+.approval-card:last-child {
+  margin-right: 0;
+}
+
+.kyc-card {
+  background-color: white;
+  
+}
+
+.loan-card {
+  background-color: white;
+
+}
+
+.overall-card {
+  background-color: white;
+
+}
+
+.kyc {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #67A566;
+}
+
+.loandefault {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  color:#FF7A00;
+}
+
+.overallloan {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  color:#FF4B4B;
+}
+.stepper{
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  margin-right: 20px;
+}
+
+.reject-container {
+  position: absolute;
+  width: 265px;
+  height: 36px;
+  top: 160px;
+  left: 1550px;
+  border-radius: 4px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+}
+
+.button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.approve-button {
+  background-color: #4caf50;
+  color: white;
+  border: 1px solid #579A5D;
+}
+
+.reject-button {
+  background-color: #f44336;
+  color: white;
+  border: 1px solid #FF9A9A;
+}
+.message-container {
+  border: 1px solid;
+  border-color: rgba(248, 125, 124, 0.2);
+  background-color: rgba(248, 125, 124, 0.2);
+  padding: 16px;
+  width: 550px;
+  height:50px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.eligibility {
+  margin: 0;
+  color: black;
+  margin-right: 10px; 
+}
+.eligibility-criteria{
+  margin: 0;
+  color: black;
+  margin-right: 10px; 
+}
+.criteria-container{
+  border: 1px solid;
+  border-color:rgba(13, 219, 185, 0.2);
+  background-color:  rgba(13, 219, 185, 0.2);
+  padding: 16px;
+  width: 550px;
+  height:50px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.revise-button{
+  margin-left: 70px !important;
+}
+.main-container{
+  overflow: hidden;
+}
+.check-button{
+   border: 1px solid rgba(9, 95, 246, 1);
+   background-color: white;
+   width:300px;
+   height:30px;
+   
+}
+.check-probability-button{
+  border: 1px solid rgba(9, 95, 246, 1);
+  background-color: white;
+  width:300px;
+  height:30px;
+  
+}
+.update-button{
+  margin-left: 130px !important;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #4caf50;
+  border-color: #4caf50;
+  color: white;
+
+}

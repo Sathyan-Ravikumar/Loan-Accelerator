@@ -1,0 +1,39 @@
+ /* globalStyles.css */
+ .maincontent {
+   font-display: white;
+   width: 300px;
+   height: 940px;
+   background-color: #2C76C9; 
+   padding-top: 40px;
+
+
+
+
+ }
+  .maincontent {
+   display: flex;
+   transition: margin-left 0.3s ease-in-out;
+
+ } 
+ 
+ .maincontent.collapsed {
+   margin-left: -8px;
+   margin-right:10px;
+   width:70px;
+ } 
+ 
+ .classlogo {
+    background-color: #2C76C9;
+     right:50px;
+ }
+
+ .divi{
+  width: 300px;
+  top: 60px;
+  border:1px; 
+  color:white;
+ }
+ .text{
+   margin-right: 54px;
+   text-align: right;
+ }

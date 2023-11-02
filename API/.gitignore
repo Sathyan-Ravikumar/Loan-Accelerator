@@ -1,0 +1,28 @@
+.DS_STORE
+ 
+# .NET Core build and output folders
+.vs
+LoanAccelerator/bin
+LoanAccelerator/obj
+LoanAcceleratorTesting/obj
+LoanAcceleratorTesting/bin
+
+
+# .NET Core artifacts
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.bak
+
+# Visual Studio files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets

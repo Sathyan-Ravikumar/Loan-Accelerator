@@ -1,0 +1,90 @@
+
+.boxes {
+  display: flex;
+  margin-left: 28px;
+  margin-top: 20px;
+  /* padding-right: 20px; */
+  justify-content: space-between;
+}
+
+.appprofileres {
+  display: flex;
+  margin-top: 20px;
+  border-radius: 8px;
+
+}
+
+.row2 {
+  display: flex;
+  margin-left: 28px;
+  justify-content: space-between;
+  max-height: fit-content;
+}
+
+.contents {
+  margin-left: 20px;
+}
+
+
+@media (max-width: 768px) {
+  .dshboard {
+    flex-direction: column;
+  }
+
+  .contents {
+    margin-left: 0;
+    padding: 10px;
+
+  }
+
+  .boxes {
+    flex-direction: column;
+  }
+
+  .row2 {
+    flex-direction: column;
+  }
+
+  .appprofileres {
+    margin-left: 220px;
+  }
+}
+
+.search1234bar {
+  
+  width: 1650px;
+
+}
+
+.maindashboard123 {
+  display: flex;
+}
+
+
+#application {
+  margin-left: -280px;
+  width: 1132px;
+  height: 484px;
+
+  border-radius: 8px;
+  border: 1px;
+
+}
+
+#namecontent{
+  margin-left: 40px;
+}
+
+.statusshown{
+  color: #626D8A;
+}
+.nameshown{
+color: #08084A;
+font-family:Roboto;
+font-size: 24px;
+font-weight: 430;
+line-height: 34px;
+letter-spacing: 0px;
+text-align: left;
+
+}

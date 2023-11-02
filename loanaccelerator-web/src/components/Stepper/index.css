@@ -1,0 +1,35 @@
+
+.container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.numberIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.blueText {
+  color: blue;
+}
+
+.greenText {
+  color: #BBBBBB;
+}
+
+.blackText {
+  color: #676D74;
+}
+
+.col1bottomImagetriangle{
+  position:absolute;
+}
+.col1bottomImage{
+  position: relative;
+  padding-left: 40px;
+}
+ .hide1, .hide2 ,.hide3 {
+  color: #37414A;
+}

@@ -1,0 +1,42 @@
+
+  .box4 {
+    border-radius: 8px;
+    border: 1px solid #EDF1F5;
+    background: #FFF;
+    box-shadow: 0px 4px 14px 0px rgba(86, 86, 86, 0.07);
+    /* padding: 20px; */
+    margin: 20px;
+    background-color: #fff;
+    margin-left: 25%;
+    width: 1148px;
+    height: 384px;
+  }
+  
+  .Appstatushead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Appstatus {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto,sans-serif;
+  }
+
+  /* Styling for the table header */
+  .ant-table-thead > tr > th {
+    background-color: #f0f2f5;
+    text-align: center !important;
+    margin-left: 20px;
+  }
+  
+  /* Styling for the table cells */
+  .ant-table-tbody > tr > td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  
+
+  

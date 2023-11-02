@@ -1,0 +1,16 @@
+.custom-modal .ant-modal-footer {
+    text-align: center;
+}
+
+.custom-modal .ant-modal-footer .ant-btn {
+    margin-bottom: 10px;
+    font-size: 20px; 
+    padding: 1px 20px; 
+    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}

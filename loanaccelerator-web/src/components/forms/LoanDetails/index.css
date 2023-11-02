@@ -1,0 +1,71 @@
+.segment.selected {
+  color: white;
+  background-color: #2C76C9;
+  border: none;
+  border-radius: 8px;
+  transform: scale(1.1);
+  z-index: 1;
+  height: 50px;
+
+}
+
+.segment {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+  transition: background-color 0.3s ease, color 0.3s ease;
+
+  white-space: nowrap;
+  width: 300px;
+  justify-content: space-between;
+}
+
+.segment.selected {
+  color: white;
+  background-color: #2C76C9;
+  border: none;
+  border-radius: 8px;
+  transform: scale(1.1);
+  z-index: 1;
+  height: 50px;
+
+}
+
+.loan_details_title {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 28px;
+  margin-left: 10px;
+  padding-top: 50px;
+  color: #042747;
+  font-family: Roboto;
+}
+
+.loan_details_secondary_text {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 29px;
+  padding-top: 5px;
+  margin-left: 10px;
+  color: #626D8A;
+}
+
+.input1,
+.input2,
+.input3 {
+  width: 250px !important;
+  margin: 10px;
+  flex: 1;
+  border-color: #d3d5dd;
+
+}
+/* .ant-segmented-item-selected::after {
+  background-color: #2C76C9;
+}
+.ant-segmented-item-selected{
+  color: white;
+} */

@@ -1,0 +1,57 @@
+.firsttext {
+  color: #042747 !important;
+  font-size: 14px ;
+  font-style: normal;
+  font-weight: 200 !important;
+  line-height: 28px !important;
+ }
+
+.secondtext {
+  color: #626D8A;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400!important;
+  line-height: 29px!important;
+ }
+
+ .col-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;  
+}
+
+.ant-form-item {
+  margin-bottom: 16px; 
+}
+
+.rent,.other,.ru,.fc,.education,.lr,.another,.odf,.cars,.salary{
+  width: 240px !important;
+  border: 1px solid #E1E1E1 !important;
+  box-shadow: inset 0px 2px 6px rgba(140, 148, 168, 0.16) !important;
+  border-radius: 6px !important;
+}
+
+.ant-radio-group {
+  display: flex;
+  margin-top: 5px;
+  margin-left: 20px;  
+}
+
+ .ant-divider-horizontal {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.10);
+  margin: 20px 0;  
+}
+
+ .ant-btn {
+  border-radius: 6px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.next-button {
+  margin-top: 20px;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

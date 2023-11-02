@@ -1,0 +1,102 @@
+.cool2{
+    padding: 1.5rem;
+}
+
+.cool3
+{
+width: 130px;
+} 
+
+.cool3 p{
+    color: #9E9E9E;
+}
+.cool3 h6{
+    color: #042747;
+}
+ .row1 .cool3 h6{
+    margin-bottom: -.04rem;
+} 
+.row1{
+    display:flex;
+}
+ .row1 .edit{
+    margin-left: 5rem;
+} 
+
+.row2{
+    display: flex ;
+}
+.row2 .cool3{
+    margin-left: -1.5rem;
+}
+.row2 .cool3 h6{
+    margin-top: -1.2rem;
+    margin-bottom: -.3rem       ;
+}
+
+.row2 .edit2{
+    margin-left: 11rem;
+}
+
+
+.row3{
+    display: flex ;
+}
+
+.row3 .edit3{
+    margin-left: -2.7rem;
+}
+.row4{
+    display: flex ;
+    
+}
+
+.row41{
+    display: flex ;
+    flex-direction: column;
+    
+}
+
+.row42{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.row4 .edit4{
+    margin-left: 13.2rem;
+}
+
+.row5{
+    display: flex ;
+}
+.row5 .edit5{
+    margin-left: 4.5rem;
+}
+.row6{
+    display: flex ;
+}
+
+.row41 .edit6{
+    margin-left: 4.6rem;
+}
+
+.row41 .edit7{
+    margin-left: 12.5rem;
+}
+
+ .row8 .edit8{
+    margin-left: 4.3rem;
+}
+
+
+.row7{
+    display: flex ;
+}
+
+.row8{
+    display: flex ;
+}
+.row41 .row4 .coo p{
+    margin-bottom: -.1px;
+}
