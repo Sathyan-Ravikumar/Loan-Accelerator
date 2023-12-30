@@ -20,7 +20,6 @@ LoanAcceleratorTesting/bin
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
 *.sw?
 
 # NuGet packages
