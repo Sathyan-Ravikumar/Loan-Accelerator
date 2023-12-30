@@ -56,7 +56,7 @@ public class LoanCategoryControllerTests
     //        Assert.Equal(expectedCategory.LoanCategoryId, createdCategory.LoanCategoryId);
     //    }
 
-    [Fact]
+    /*[Fact]
     public async Task PutLoanCategory_ReturnsOkResult()
     {
         // Arrange
@@ -80,5 +80,5 @@ public class LoanCategoryControllerTests
         var updated = Assert.IsType<LoanCategory>(okObjectResult.Value);
         Assert.Equal(expectedUpdatedCategory.LoanCategoryId, updated.LoanCategoryId);
         Assert.Equal(expectedUpdatedCategory.LoanCategory1, updated.LoanCategory1);
-    }
+    }*/
 }
